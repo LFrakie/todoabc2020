@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "es",
+    "name": "TODO ABC",
+    "short_name": "TODO ABC",
+    "scope": "/todoabc2020/",
+    "display": "browser",
+    "start_url": "https://lfrakie.github.io/todoabc2020/",
+    "background_color": "#000000",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://lfrakie.github.io/todoabc2020",
+    "screenshots": []
+}
