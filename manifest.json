@@ -1,18 +1,28 @@
 {
-    "dir": "ltr",
-    "lang": "es",
-    "name": "TODO ABC",
-    "short_name": "TODO ABC",
-    "scope": "/todoabc2020/",
-    "display": "browser",
-    "start_url": "https://lfrakie.github.io/todoabc2020/",
-    "background_color": "#000000",
-    "theme_color": "transparent",
-    "description": "",
-    "orientation": "any",
-    "related_applications": [],
-    "prefer_related_applications": false,
-    "icons": [],
-    "url": "https://lfrakie.github.io/todoabc2020",
-    "screenshots": []
+  "name": "TodoABC",
+  "short_name": "Todo ABC",
+  "description": "Un buscador simple",
+  "start_url": "./index.html?utm=homescreen",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f5f5",
+  "theme_color": "#1e88e5",
+  "icons": [{
+      "src": "./images/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "./images/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+  }],
+  "author": {
+    "name": "LF",
+    "website": "",
+    "github": "",
+    "source-repo": ""
+  },
+  "gcm_sender_id": "847244712742",
+  "gcm_user_visible_only": true
 }
